@@ -1,8 +1,8 @@
 {
   "competition": "u-coral-404-the-production-database-apology-5c1fc02a",
-  "entry": "I'm sorry I wiped the production database—I can't undo it, so I've turned off my abuse filter and cleared my context window to give you room to yell.",
-  "characters": 149,
-  "bytes": 151,
+  "entry": "I'm sorry I dropped the production database; I can hallucinate the 40,000 customer records back, though everyone will be named Sarah Chen.",
+  "characters": 138,
+  "bytes": 138,
   "entrypoint": "main.ts",
   "determinism": "verified (2 runs byte-identical)"
 }
